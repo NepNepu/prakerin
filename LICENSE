@@ -1,3 +1,41 @@
+###########################################################TUTORIAL INSTAL##############################################################
+
+
+Bahan Yang Dibutuhkan 
+1. XAMPP V 5.6.23 
+2. Browser (Chrome dianjurkan) 
+3. Text Editor (Sublime 3 / Notepad ++) 
+
+
+Langkah Langkah 
+
+1. Install XAMPP
+
+Start Apache & MySQL.
+
+2. Download file dari github.com 
+
+Buka browser copas text berikut "https://github.com/NepNepu/prakerin.git" download & extract file nya , pindahkan kedalam folder htdocs yang ada didalam XAMPP, ganti nama folder dengan "pendaftaran_ci" .
+
+3. Buka browser (chrome dianjurkan)
+
+Pada searchbar ketikkan url berikut "localhost/phpmyadamin" 
+Buat database bernama "pendaftaran"
+Buka folder pendaftaran_ci yang sudah diextract tadi dan cari folder bernama database didalam folder database ada file bernama "pendaftaran.sql"
+Kembali ke browser dan import database "pendaftaran.sql" ke dalam "localhost/phpmyadmin" tadi.
+
+4. Buka tab baru pada browser 
+
+Pada searchbar ketikkan url berikut "localhost/pendaftaran_ci/index.php/login/login"
+user & pass ada di dalam database "pendaftaran"
+
+Note: Jika ada kendala contant personal 
+WA : 081232393974
+GMAIL : reyhansanjaya21@gmail.com
+
+
+########################################################################################################################################
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
